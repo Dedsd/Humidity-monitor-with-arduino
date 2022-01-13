@@ -12,6 +12,8 @@
 - ![yellow](images/yellow.png) When the humidity is bellow 30%
 - ![red](images/red.png) When the humidity is higher than 50%
 
+---
+
 ### Components
 
 - Arduino UNO R3(or compatible with)
