@@ -9,8 +9,8 @@
 - Arduino UNO R3(or compatible with)
 - DHT11 sensor
 - Led rgb
-- ressitors 220 ohms 3x
-- resistor 10k ohms
+- Resistors 220 ohms 3x
+- Resistor 10k ohms
 - Jumpers
 - Breadboard
 
